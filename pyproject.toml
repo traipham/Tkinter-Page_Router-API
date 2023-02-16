@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "tkinter_router_tpham7"
+name = "tkinter-page-router-tpham"
 version = "0.0.1"
 authors = [
   { name="Trai Pham", email="traipham16@yahoo.com" },

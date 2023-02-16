@@ -12,7 +12,7 @@ long_description = (here / "README.md").read_text(encoding="utf-8")
 
 
 setup(
-    name="router-api-tpham",
+    name="tkinter-page-router-tpham",
     version="1.0.0",
     desciption="A tkinter page router module",
     long_description=long_description,
