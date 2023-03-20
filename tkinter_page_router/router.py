@@ -10,6 +10,8 @@ class Router(tk.Tk):
         # Make widgets scalable to window size
         self.master_frame.grid_rowconfigure(0, weight=1)
         self.master_frame.grid_columnconfigure(0, weight=1)
+        self.master_frame.grid_rowconfigure(1, weight=1)
+        self.master_frame.grid_columnconfigure(1, weight=1)
 
         # button frame
         self.button_frame = tk.Frame(self.master_frame)
